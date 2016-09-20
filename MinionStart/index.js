@@ -10,7 +10,7 @@ this.addToHelp = []; // dont touch
 // [General]
 this.name = "Minion Start"; // Name of plugin REQUIRED
 this.author = "Andrews54757"; // author REQUIRED
-this.description = 'Gives minions on start'; // Desciprtion
+this.description = 'Gives minions on start'; // Description
 this.compatVersion = ''; // compatable with (optional)
 this.version = '1.0.0'; // version REQUIRED
 
